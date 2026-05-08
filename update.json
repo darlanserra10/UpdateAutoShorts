@@ -1,5 +1,6 @@
 {
   "versao_atual": "7.5.26",
-  "link_download": "https://www.dropbox.com/scl/fi/1snost4unn17qazpql4wv/AutoShorts_Studio_PRO_7.5.26.zip?rlkey=oziw3292ho88zbtteetvca939&st=cp8djmkn&dl=1",
-  "mensagem": "Atualização Tática: Melhorias de estabilidade na renderização."
+  "link_download": "https://www.dropbox.com/scl/fi/essr7wdv5tk6tql5zipho/AutoShorts_Studio_PRO_7.5.26.zip?rlkey=jjpz4o9mr1lehzm5gscn4tff4&st=qzy4du5m&dl=1",
+  "mensagem": "Iniciando protocolo de blindagem do motor de renderização...",
+  "patch_notes": "🛠️ PATCH 1.1.0 - RELATÓRIO DE CORREÇÕES:\n\n🕵️ Os Sabotadores: Emojis e Nomes Gigantes\n- Emojis nos Nomes de Ficheiro (🧠✨, 😱🚫): O Gemini foi criativo e colocou emojis nos títulos. O FFmpeg no Windows tinha uma dificuldade terrível em processar bytes de emojis através do terminal. O filtro de descontaminação foi ativado.\n- O Limite da Trincheira (Max Path 260): O Windows tem um limite rígido de 260 caracteres para o caminho de um ficheiro. O motor agora corta nomes gigantescos automaticamente para evitar a falha de diretório.\n\n✅ Motor Whisper: Falha do silero_vad_v6 resolvida na compilação interna."
 }

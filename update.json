@@ -1,6 +1,13 @@
 {
-  "versao_atual": "7.5.26",
-  "link_download": "https://www.dropbox.com/scl/fi/essr7wdv5tk6tql5zipho/AutoShorts_Studio_PRO_7.5.26.zip?rlkey=jjpz4o9mr1lehzm5gscn4tff4&st=qzy4du5m&dl=1",
-  "mensagem": "Iniciando protocolo de blindagem do motor de renderização...",
-  "patch_notes": "🛠️ PATCH 1.1.0 - RELATÓRIO DE CORREÇÕES:\n\n🕵️ Os Sabotadores: Emojis e Nomes Gigantes\n- Emojis nos Nomes de Ficheiro (🧠✨, 😱🚫): O Gemini foi criativo e colocou emojis nos títulos. O FFmpeg no Windows tinha uma dificuldade terrível em processar bytes de emojis através do terminal. O filtro de descontaminação foi ativado.\n- O Limite da Trincheira (Max Path 260): O Windows tem um limite rígido de 260 caracteres para o caminho de um ficheiro. O motor agora corta nomes gigantescos automaticamente para evitar a falha de diretório.\n\n✅ Motor Whisper: Falha do silero_vad_v6 resolvida na compilação interna."
+    "versao_atual": "18.5.26",
+    "data_atualizacao": "18/05/2026",
+    "link_download": "SEU_LINK_DIRETO_DO_DRIVE_AQUI",
+    "mensagem": "Atualização Tática v18.5.26 liberada para o front de batalha.",
+    "notas_mudancas": [
+        "Nova Aba 'Diretor' integrada ao Pexels HD para extração de B-Rolls verticais gratuitos.",
+        "Implementação da Sala de Comando Central (Modal Global de Opções e Visibilidade).",
+        "Blindagem tática de pastas de áudio (MUSICAS_FUNDO) com travas de segurança contra exclusão.",
+        "Ajuste de mira e rebaixamento automático das legendas para a 'Zona de Ouro' (75% da altura).",
+        "Correção do Erro 403 (Permissões insuficientes) no módulo de upload do YouTube."
+    ]
 }
